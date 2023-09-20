@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Main {
+public class Arithmetic {
     public static void main(String[] args) {
         JTextField integerInput1 = new JTextField();
         JTextField integerInput2 = new JTextField();
