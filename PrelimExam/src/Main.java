@@ -51,6 +51,7 @@ public class Main {
             if (choice == 3) {
                 JOptionPane.showMessageDialog(null, "Thank you for choosing Digital Bank!");
                 System.exit(0);
+                // exit
             }
 
         }
